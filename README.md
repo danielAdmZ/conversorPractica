@@ -16,4 +16,4 @@ fueron:</p>
 <img src="img.png" alt="Menu de monedas">
 <hr>
 <h3 style="color:#1d336c;">Funcionamiento del Programa</h3>
-<video src="PruebaCodigo.mp4"></video>
+<img src="PruebaCodigo.mp4">
