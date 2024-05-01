@@ -15,7 +15,9 @@ fueron:</p>
 <h2>Imagen del Menú</h2>
 <img src="img.png" alt="Menu de monedas">
 <hr>
-<h3 style="color:#1d336c;">Funcionamiento del Programa</h3>
-<video src="https://youtu.be/J4NWZb1QWGA"  width="640" height="360" controls preload=""> 
+<h3 style="color:#1d336c; font-size:1.5rem">Funcionamiento del Programa</h3>
 
-</video>
+<p style="font-size:1.2rem">Lo pueden ver mediante este<a href="https://youtu.be/J4NWZb1QWGA"> enlace del Video</a></p>
+
+<hr>
+<h3>El API utilizado lo pueden encontrar también en  <a href="https://www.exchangerate-api.com/">este enlace</a></h3>
